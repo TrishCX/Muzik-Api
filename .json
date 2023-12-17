@@ -1,0 +1,543 @@
+{
+  "data": {
+    "name": "Electric Guest",
+    "biography": "Co-writing and co-producing a Grammy Award winning international hit is usually enough to make an artist’s ego visible from space. But for Asa Taccone of Electric Guest, working on Portugal. The Man’s inescapable, Grammy-winning 2017 track “Feel It Still” as well as contributing a track to Carly Rae Jepsen’s Dedicated, was more humbling than ego boosting.\n\n“When you work with other artists and performers, you get to see yourself,” says the singer- songwriter, as his Electric Guest compadre and multi-instrumentalist Matthew Compton nods in agreement. “But you also get to have these intimate conversations with bands on their second or third albums, and you realize it’s not fun anymore. It’s hella stressful, and you find yourself over intellectualizing the process. I realized it was exactly the sort of thing I do.”\n\nThe question was, how to make sure it didn’t happen to Electric Guest. Their third album is the emphatic answer. KIN is not just another collection of songs for Electric Guest. It’s an overdue statement of identity. “We came up in the early 2010s when indie bands were where it was at,” remembers Asa. &quot;We got lumped into that, but it was never really the right fit so it’s been a gradual shift away from that. I think of us as more a pop duo.”",
+    "header": "https://i.scdn.co/image/ab67618600001016a468b1faf95c03ed8ed9b761",
+    "verified": true,
+    "gallery": [
+      "https://i.scdn.co/image/ab6761670000ecd486f567a053a87f417f36e6ee",
+      "https://i.scdn.co/image/ab6761670000ecd41a269e0364930c799004ebd4",
+      "https://i.scdn.co/image/ab6761670000ecd47683631e9c07622aac2cc772"
+    ],
+    "image": "https://i.scdn.co/image/ab6761610000517444b0ae44df3ba93849932281",
+    "topTracks": [
+      {
+        "title": "This Head I Hold",
+        "artists": [
+          {
+            "uri": "spotify:artist:7sgWBYtJpblXpJl2lU5WVs",
+            "profile": { "name": "Electric Guest" }
+          }
+        ],
+        "duration": "02:55",
+        "durationInMS": 175773,
+        "id": "2dA8HyqpMOXYQBMbeHUQnl",
+        "playCount": "116597904"
+      },
+      {
+        "title": "Oh Devil",
+        "artists": [
+          {
+            "uri": "spotify:artist:7sgWBYtJpblXpJl2lU5WVs",
+            "profile": { "name": "Electric Guest" }
+          }
+        ],
+        "duration": "03:37",
+        "durationInMS": 217586,
+        "id": "1kcfGBb6kSrGqNIMW7rAlB",
+        "playCount": "75508776"
+      },
+      {
+        "title": "American Daydream",
+        "artists": [
+          {
+            "uri": "spotify:artist:7sgWBYtJpblXpJl2lU5WVs",
+            "profile": { "name": "Electric Guest" }
+          }
+        ],
+        "duration": "02:48",
+        "durationInMS": 168626,
+        "id": "1M3s7s4CrpDgAXGuS9Cbw9",
+        "playCount": "28873317"
+      },
+      {
+        "title": "Dear To Me",
+        "artists": [
+          {
+            "uri": "spotify:artist:7sgWBYtJpblXpJl2lU5WVs",
+            "profile": { "name": "Electric Guest" }
+          }
+        ],
+        "duration": "04:01",
+        "durationInMS": 241480,
+        "id": "4hh1lvWiUaLMOcVXhyK6TA",
+        "playCount": "51386319"
+      },
+      {
+        "title": "Oh Devil - Radio Version",
+        "artists": [
+          {
+            "uri": "spotify:artist:7sgWBYtJpblXpJl2lU5WVs",
+            "profile": { "name": "Electric Guest" }
+          },
+          {
+            "uri": "spotify:artist:2XoGO4QcRyFI1Df8exDo7Z",
+            "profile": { "name": "Devin Di Dakta" }
+          }
+        ],
+        "duration": "03:37",
+        "durationInMS": 217386,
+        "id": "6KwSdmAba8BxoxVXPw70LO",
+        "playCount": "57904940"
+      },
+      {
+        "title": "Dollar",
+        "artists": [
+          {
+            "uri": "spotify:artist:7sgWBYtJpblXpJl2lU5WVs",
+            "profile": { "name": "Electric Guest" }
+          }
+        ],
+        "duration": "03:28",
+        "durationInMS": 208746,
+        "id": "0z4zZNViQ01puQOlAFGGUy",
+        "playCount": "27606895"
+      },
+      {
+        "title": "Troubleman",
+        "artists": [
+          {
+            "uri": "spotify:artist:7sgWBYtJpblXpJl2lU5WVs",
+            "profile": { "name": "Electric Guest" }
+          }
+        ],
+        "duration": "08:48",
+        "durationInMS": 528733,
+        "id": "3xpO8JkZJChlLu9AvfJ6VX",
+        "playCount": "15051181"
+      },
+      {
+        "title": "Awake",
+        "artists": [
+          {
+            "uri": "spotify:artist:7sgWBYtJpblXpJl2lU5WVs",
+            "profile": { "name": "Electric Guest" }
+          }
+        ],
+        "duration": "05:00",
+        "durationInMS": 300866,
+        "id": "4JiQ2zKmMjGBnQB3aYBFSh",
+        "playCount": "18117213"
+      },
+      {
+        "title": "Waves",
+        "artists": [
+          {
+            "uri": "spotify:artist:7sgWBYtJpblXpJl2lU5WVs",
+            "profile": { "name": "Electric Guest" }
+          }
+        ],
+        "duration": "03:06",
+        "durationInMS": 186106,
+        "id": "1JiGu26qTT3VxreyMcpxEQ",
+        "playCount": "15232399"
+      },
+      {
+        "title": "Back For Me",
+        "artists": [
+          {
+            "uri": "spotify:artist:7sgWBYtJpblXpJl2lU5WVs",
+            "profile": { "name": "Electric Guest" }
+          }
+        ],
+        "duration": "03:21",
+        "durationInMS": 201613,
+        "id": "2XkGsXn2ajii2gzxnZLYip",
+        "playCount": "15001225"
+      }
+    ],
+    "albums": [
+      {
+        "id": "5yccZqBhhSqWndfKVjNZQY",
+        "title": "KIN",
+        "songsCount": 11,
+        "copyright": "© 2019 Atlantic Recording Corporation for the universe, excluding France., ℗ 2019 Atlantic Recording Corporation for the universe, excluding France.",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b27396bf76f872054e6e1195402e",
+        "date": { "year": 2019, "month": 10, "day": 18, "precision": "DAY" },
+        "label": "Atlantic Records",
+        "uri": "spotify:album:5yccZqBhhSqWndfKVjNZQY"
+      },
+      {
+        "id": "4ncZdrGiO459vrUU1yYCCA",
+        "title": "Plural",
+        "songsCount": 11,
+        "copyright": "© 2017 Downtown/Interscope Records, ℗ 2017 Downtown/Interscope Records",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b273a06911645b978c17372c9158",
+        "date": { "year": 2017, "month": 2, "day": 17, "precision": "DAY" },
+        "label": "Downtown JV",
+        "uri": "spotify:album:4ncZdrGiO459vrUU1yYCCA"
+      },
+      {
+        "id": "2RAn6k3jUNl82STRz2xtL8",
+        "title": "Mondo",
+        "songsCount": 13,
+        "copyright": "2013 Downtown, 2013 Downtown",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b273e3324f766bb94cd492bb277f",
+        "date": { "year": 2013, "month": 4, "day": 22, "precision": "DAY" },
+        "label": "Downtown Records",
+        "uri": "spotify:album:2RAn6k3jUNl82STRz2xtL8"
+      }
+    ],
+    "popularAlbums": [
+      {
+        "id": "4ncZdrGiO459vrUU1yYCCA",
+        "title": "Plural",
+        "songsCount": 11,
+        "copyright": "© 2017 Downtown/Interscope Records, ℗ 2017 Downtown/Interscope Records",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b273a06911645b978c17372c9158",
+        "date": { "year": 2017, "month": 2, "day": 17, "precision": "DAY" },
+        "label": "Downtown JV",
+        "uri": "spotify:album:4ncZdrGiO459vrUU1yYCCA"
+      },
+      {
+        "id": "2RAn6k3jUNl82STRz2xtL8",
+        "title": "Mondo",
+        "songsCount": 13,
+        "copyright": "2013 Downtown, 2013 Downtown",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b273e3324f766bb94cd492bb277f",
+        "date": { "year": 2013, "month": 4, "day": 22, "precision": "DAY" },
+        "label": "Downtown Records",
+        "uri": "spotify:album:2RAn6k3jUNl82STRz2xtL8"
+      },
+      {
+        "id": "5yccZqBhhSqWndfKVjNZQY",
+        "title": "KIN",
+        "songsCount": 11,
+        "copyright": "© 2019 Atlantic Recording Corporation for the universe, excluding France., ℗ 2019 Atlantic Recording Corporation for the universe, excluding France.",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b27396bf76f872054e6e1195402e",
+        "date": { "year": 2019, "month": 10, "day": 18, "precision": "DAY" },
+        "label": "Atlantic Records",
+        "uri": "spotify:album:5yccZqBhhSqWndfKVjNZQY"
+      },
+      {
+        "id": "2ophfPYNFYZeRoeh5rcElv",
+        "title": "Oh Devil (Radio Version)",
+        "songsCount": 1,
+        "copyright": "© 2017 Downtown/Interscope Records, ℗ 2017 Downtown/Interscope Records",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b273710023301ad7cb50cbaa849a",
+        "date": { "year": 2017, "month": 6, "day": 16, "precision": "DAY" },
+        "label": "Downtown JV",
+        "uri": "spotify:album:2ophfPYNFYZeRoeh5rcElv"
+      },
+      {
+        "id": "0ijdNBKFMv2SutGN2gC7wr",
+        "title": "The Jerk/Back On Me",
+        "songsCount": 2,
+        "copyright": "2012 Downtown Records, 2012 Downtown Records",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b2736dc1cfeb6e41a6c9d34f8445",
+        "date": { "year": 2012, "month": 1, "day": 1, "precision": "DAY" },
+        "label": "Downtown Records",
+        "uri": "spotify:album:0ijdNBKFMv2SutGN2gC7wr"
+      },
+      {
+        "id": "4fhZ059kHDR1z4bWr2ygOK",
+        "title": "Dollar (20syl Remix)",
+        "songsCount": 2,
+        "copyright": "© 2019 Atlantic Recording Corporation for the universe, excluding France., ℗ 2019 Atlantic Recording Corporation for the universe, excluding France.",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b2735e36244d087ecbf33b708fd6",
+        "date": { "year": 2019, "month": 9, "day": 3, "precision": "DAY" },
+        "label": "Atlantic Records",
+        "uri": "spotify:album:4fhZ059kHDR1z4bWr2ygOK"
+      },
+      {
+        "id": "0jWWO7pdDZmxAFK6JXaUJK",
+        "title": "1 4 Me (Yuksek Remix)",
+        "songsCount": 3,
+        "copyright": "© 2019 Atlantic Recording Corporation for the universe, excluding France., ℗ 2019 Atlantic Recording Corporation for the universe, excluding France.",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b27317b5233d2cd8c7c7c3766e16",
+        "date": { "year": 2019, "month": 11, "day": 14, "precision": "DAY" },
+        "label": "Atlantic Records",
+        "uri": "spotify:album:0jWWO7pdDZmxAFK6JXaUJK"
+      },
+      {
+        "id": "67jKYkcPyDtWUn7JgxppU8",
+        "title": "Dollar (Lemaitre Remix)",
+        "songsCount": 2,
+        "copyright": "© 2019 Atlantic Recording Corporation for the universe, excluding France., ℗ 2019 Atlantic Recording Corporation for the universe, excluding France.",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b2739059841622ada98532abc437",
+        "date": { "year": 2019, "month": 8, "day": 16, "precision": "DAY" },
+        "label": "Atlantic Records",
+        "uri": "spotify:album:67jKYkcPyDtWUn7JgxppU8"
+      },
+      {
+        "id": "6zCC7kBNlO2GFv463zKTtE",
+        "title": "Oh Devil (Different Sleep Remix)",
+        "songsCount": 1,
+        "copyright": "© 2017 Downtown/Interscope Records, ℗ 2017 Downtown/Interscope Records",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b273776d60174e0cbb3e00dcac29",
+        "date": { "year": 2017, "month": 9, "day": 1, "precision": "DAY" },
+        "label": "Downtown JV",
+        "uri": "spotify:album:6zCC7kBNlO2GFv463zKTtE"
+      },
+      {
+        "id": "4iJiPvnSMiDmsW37pzzkSp",
+        "title": "Dollar (Cha Cha Version)",
+        "songsCount": 2,
+        "copyright": "© 2020 Atlantic Recording Corporation for the universe, excluding France., ℗ 2020 Atlantic Recording Corporation for the universe, excluding France.",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b27346e500744f2966bfdcc94868",
+        "date": { "year": 2020, "month": 1, "day": 3, "precision": "DAY" },
+        "label": "Atlantic Records",
+        "uri": "spotify:album:4iJiPvnSMiDmsW37pzzkSp"
+      }
+    ],
+    "singlesTotalCount": 15,
+    "singles": [
+      {
+        "id": "6fVEAg1SUanOooS3FeHOv2",
+        "title": "Freestyle (feat. Darell and Rvssian)",
+        "songsCount": 1,
+        "copyright": "© 2021 Atlantic Recording Corporation for the universe, excluding France., ℗ 2021 Atlantic Recording Corporation for the universe, excluding France.",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b27316df51ac64636c78c62f9e54",
+        "date": { "year": 2021, "month": 2, "day": 10, "precision": "DAY" },
+        "label": "Atlantic Records",
+        "uri": "spotify:album:6fVEAg1SUanOooS3FeHOv2"
+      },
+      {
+        "id": "5hOKCnzHFiaHDRbQKuaWym",
+        "title": "Unkind (Electric Guest Remix)",
+        "songsCount": 1,
+        "copyright": "2020 Kacy Hill, 2020 Kacy Hill",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b27333c2634bb54bb368df87ab2e",
+        "date": { "year": 2020, "month": 11, "day": 11, "precision": "DAY" },
+        "label": "Kacy Hill",
+        "uri": "spotify:album:5hOKCnzHFiaHDRbQKuaWym"
+      },
+      {
+        "id": "3AsOKh4Y967ZwtzEYuCuAV",
+        "title": "1 4 Me (S+C+A+R+R Remix)",
+        "songsCount": 2,
+        "copyright": "© 2020 Atlantic Recording Corporation for the universe, excluding France., ℗ 2020 Atlantic Recording Corporation for the universe, excluding France.",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b273c93516bad5bca4ba3ece1d40",
+        "date": { "year": 2020, "month": 2, "day": 14, "precision": "DAY" },
+        "label": "Atlantic Records",
+        "uri": "spotify:album:3AsOKh4Y967ZwtzEYuCuAV"
+      },
+      {
+        "id": "4iJiPvnSMiDmsW37pzzkSp",
+        "title": "Dollar (Cha Cha Version)",
+        "songsCount": 2,
+        "copyright": "© 2020 Atlantic Recording Corporation for the universe, excluding France., ℗ 2020 Atlantic Recording Corporation for the universe, excluding France.",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b27346e500744f2966bfdcc94868",
+        "date": { "year": 2020, "month": 1, "day": 3, "precision": "DAY" },
+        "label": "Atlantic Records",
+        "uri": "spotify:album:4iJiPvnSMiDmsW37pzzkSp"
+      },
+      {
+        "id": "4TPENGvuZ6mv6mWSNg3noq",
+        "title": "More (Quiet Storm Version)",
+        "songsCount": 2,
+        "copyright": "© 2019 Atlantic Recording Corporation for the universe, excluding France., ℗ 2019 Atlantic Recording Corporation for the universe, excluding France.",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b2734c7d092e16b123c4a133ad72",
+        "date": { "year": 2019, "month": 11, "day": 22, "precision": "DAY" },
+        "label": "Atlantic Records",
+        "uri": "spotify:album:4TPENGvuZ6mv6mWSNg3noq"
+      },
+      {
+        "id": "0jWWO7pdDZmxAFK6JXaUJK",
+        "title": "1 4 Me (Yuksek Remix)",
+        "songsCount": 3,
+        "copyright": "© 2019 Atlantic Recording Corporation for the universe, excluding France., ℗ 2019 Atlantic Recording Corporation for the universe, excluding France.",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b27317b5233d2cd8c7c7c3766e16",
+        "date": { "year": 2019, "month": 11, "day": 14, "precision": "DAY" },
+        "label": "Atlantic Records",
+        "uri": "spotify:album:0jWWO7pdDZmxAFK6JXaUJK"
+      },
+      {
+        "id": "6BlNNYtdTKsmdugFCFgGni",
+        "title": "More (Franc Moody Remix)",
+        "songsCount": 2,
+        "copyright": "© 2019 Atlantic Recording Corporation for the universe, excluding France., ℗ 2019 Atlantic Recording Corporation for the universe, excluding France.",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b2737ea58a65345a18c9391ab436",
+        "date": { "year": 2019, "month": 10, "day": 4, "precision": "DAY" },
+        "label": "Atlantic Records",
+        "uri": "spotify:album:6BlNNYtdTKsmdugFCFgGni"
+      },
+      {
+        "id": "4fhZ059kHDR1z4bWr2ygOK",
+        "title": "Dollar (20syl Remix)",
+        "songsCount": 2,
+        "copyright": "© 2019 Atlantic Recording Corporation for the universe, excluding France., ℗ 2019 Atlantic Recording Corporation for the universe, excluding France.",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b2735e36244d087ecbf33b708fd6",
+        "date": { "year": 2019, "month": 9, "day": 3, "precision": "DAY" },
+        "label": "Atlantic Records",
+        "uri": "spotify:album:4fhZ059kHDR1z4bWr2ygOK"
+      },
+      {
+        "id": "67jKYkcPyDtWUn7JgxppU8",
+        "title": "Dollar (Lemaitre Remix)",
+        "songsCount": 2,
+        "copyright": "© 2019 Atlantic Recording Corporation for the universe, excluding France., ℗ 2019 Atlantic Recording Corporation for the universe, excluding France.",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b2739059841622ada98532abc437",
+        "date": { "year": 2019, "month": 8, "day": 16, "precision": "DAY" },
+        "label": "Atlantic Records",
+        "uri": "spotify:album:67jKYkcPyDtWUn7JgxppU8"
+      },
+      {
+        "id": "4csqkH6UliD30G3K2gX0rm",
+        "title": "Hbls Mucho (Electric Guest Remix)",
+        "songsCount": 1,
+        "copyright": "(C) 2019 VANESSA ZAMORA, (P) 2019 VANESSA ZAMORA",
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b273c3b4f1019de19947e8346eef",
+        "date": { "year": 2019, "month": 6, "day": 14, "precision": "DAY" },
+        "label": "VANESSA ZAMORA",
+        "uri": "spotify:album:4csqkH6UliD30G3K2gX0rm"
+      }
+    ],
+    "albumCount": 3,
+    "listeners": 1500486,
+    "appearsOnCount": 2,
+    "appearsOn": [
+      {
+        "title": "Dedicated",
+        "year": 2019,
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b273b9895f67935f0d041e13698a",
+        "id": "25it7uSpNFuRoD6uNc0Tfu",
+        "artists": [
+          {
+            "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju",
+            "profile": { "name": "Carly Rae Jepsen" }
+          }
+        ]
+      },
+      {
+        "title": "Just Circling Back Here: Is It Selfish If We Talk About Me Again (Remixes)",
+        "year": 2020,
+        "coverArt": "https://i.scdn.co/image/ab67616d0000b2730368f972d14a1c311180a14f",
+        "id": "3jE2tGWJvxIY98YJtbWfVt",
+        "artists": [
+          {
+            "uri": "spotify:artist:4dYQmk5ma04mZ1KJ9KkAQK",
+            "profile": { "name": "Kacy Hill" }
+          }
+        ]
+      }
+    ],
+    "worldRank": 0,
+    "compilations": [],
+    "compilationsCount": 0,
+    "latest": null,
+    "relatedArtists": [
+      {
+        "id": "57MtJQ6Sc4tIxrXIhrqVJL",
+        "name": "Generationals",
+        "image": "https://i.scdn.co/image/ab676161000051742bea5e6a89f65aaccd8ecef2",
+        "uri": "spotify:artist:57MtJQ6Sc4tIxrXIhrqVJL"
+      },
+      {
+        "id": "4wYk01oPJNfaEssVFL46oQ",
+        "name": "Coast Modern",
+        "image": "https://i.scdn.co/image/ab676161000051740ea1b10e5b675d3f364927f4",
+        "uri": "spotify:artist:4wYk01oPJNfaEssVFL46oQ"
+      },
+      {
+        "id": "6dgwEwnK0YtDfS9XhRwBTG",
+        "name": "Broken Bells",
+        "image": "https://i.scdn.co/image/ab67616100005174cafd2875af0609eed7b8422e",
+        "uri": "spotify:artist:6dgwEwnK0YtDfS9XhRwBTG"
+      },
+      {
+        "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
+        "name": "STRFKR",
+        "image": "https://i.scdn.co/image/ab6761610000517403db121cc01446696be24014",
+        "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
+      },
+      {
+        "id": "4rs1K6gDzLY5VnCMSC80o7",
+        "name": "Vacationer",
+        "image": "https://i.scdn.co/image/ab67616100005174306e089ac2b6d844e32c1492",
+        "uri": "spotify:artist:4rs1K6gDzLY5VnCMSC80o7"
+      },
+      {
+        "id": "5WId4o5jdGVhptNU0uqKxu",
+        "name": "St. Lucia",
+        "image": "https://i.scdn.co/image/ab676161000051740ccae599767908777d673eef",
+        "uri": "spotify:artist:5WId4o5jdGVhptNU0uqKxu"
+      },
+      {
+        "id": "75dQReiBOHN37fQgWQrIAJ",
+        "name": "Local Natives",
+        "image": "https://i.scdn.co/image/ab676161000051742114139701be565d4a155fa1",
+        "uri": "spotify:artist:75dQReiBOHN37fQgWQrIAJ"
+      },
+      {
+        "id": "4l1cKWYW591xnwEGxpUg3J",
+        "name": "Miike Snow",
+        "image": "https://i.scdn.co/image/ab676161000051745d44d2c9d050e48ee85a806d",
+        "uri": "spotify:artist:4l1cKWYW591xnwEGxpUg3J"
+      },
+      {
+        "id": "1ikg4sypcURm8Vy5GP68xb",
+        "name": "Magic City Hippies",
+        "image": "https://i.scdn.co/image/ab67616100005174897904822f196dc6ba91e0d2",
+        "uri": "spotify:artist:1ikg4sypcURm8Vy5GP68xb"
+      },
+      {
+        "id": "4AGwPDdh1y8hochNzHy5HC",
+        "name": "RAC",
+        "image": "https://i.scdn.co/image/ab676161000051744434b418bce562fc8f8d4bd0",
+        "uri": "spotify:artist:4AGwPDdh1y8hochNzHy5HC"
+      },
+      {
+        "id": "7r8xR0LmnaAM623MmRDn1V",
+        "name": "Max Frost",
+        "image": "https://i.scdn.co/image/ab67616100005174097010b6dd69f98a4f89e7f3",
+        "uri": "spotify:artist:7r8xR0LmnaAM623MmRDn1V"
+      },
+      {
+        "id": "3DFoVPonoAAt4EZ1FEI8ue",
+        "name": "Sir Sly",
+        "image": "https://i.scdn.co/image/ab67616100005174eed38e7a67ce4ef61127c8fe",
+        "uri": "spotify:artist:3DFoVPonoAAt4EZ1FEI8ue"
+      },
+      {
+        "id": "1UfzhwcOR4yfX7yHTPfC9m",
+        "name": "Joywave",
+        "image": "https://i.scdn.co/image/ab67616100005174489b4402d1b7f0757a72909f",
+        "uri": "spotify:artist:1UfzhwcOR4yfX7yHTPfC9m"
+      },
+      {
+        "id": "6FIrstf3kHEg3zBOyLpvxD",
+        "name": "Ra Ra Riot",
+        "image": "https://i.scdn.co/image/ab6761610000517456547eb95962ab341a71255b",
+        "uri": "spotify:artist:6FIrstf3kHEg3zBOyLpvxD"
+      },
+      {
+        "id": "4kI8Ie27vjvonwaB2ePh8T",
+        "name": "Portugal. The Man",
+        "image": "https://i.scdn.co/image/ab67616100005174e20c61457ea3c2fdef20c326",
+        "uri": "spotify:artist:4kI8Ie27vjvonwaB2ePh8T"
+      },
+      {
+        "id": "42vg2T0Xg9yPaAgogJzoQH",
+        "name": "Atlas Genius",
+        "image": "https://i.scdn.co/image/ab67616100005174fb70fef7e09f6f1b11e90bd7",
+        "uri": "spotify:artist:42vg2T0Xg9yPaAgogJzoQH"
+      },
+      {
+        "id": "7gjAu1qr5C2grXeQFFOGeh",
+        "name": "Passion Pit",
+        "image": "https://i.scdn.co/image/ab676161000051744e4842404e18865b7a5c38cc",
+        "uri": "spotify:artist:7gjAu1qr5C2grXeQFFOGeh"
+      },
+      {
+        "id": "5Lhxlge1CR1DrgDAje8Qaw",
+        "name": "NoMBe",
+        "image": "https://i.scdn.co/image/ab676161000051749a5b4cafb93aebbd9aeec8ed",
+        "uri": "spotify:artist:5Lhxlge1CR1DrgDAje8Qaw"
+      },
+      {
+        "id": "1dWEYMPtNmvSVaDNLgB6NV",
+        "name": "Saint Motel",
+        "image": "https://i.scdn.co/image/ab676161000051743313086b74b926b6dc347768",
+        "uri": "spotify:artist:1dWEYMPtNmvSVaDNLgB6NV"
+      },
+      {
+        "id": "2oqwwcM17wrP9hBD25zKSR",
+        "name": "Lewis Del Mar",
+        "image": "https://i.scdn.co/image/ab67616100005174b171e75745d404f23b5734c1",
+        "uri": "spotify:artist:2oqwwcM17wrP9hBD25zKSR"
+      }
+    ],
+    "relatedArtistsCount": 20
+  }
+}

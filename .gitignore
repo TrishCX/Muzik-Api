@@ -1,0 +1,6 @@
+# Ignore Node.js related files and folders
+node_modules/
+package-lock.json
+
+# Ignore distribution files
+dist/
