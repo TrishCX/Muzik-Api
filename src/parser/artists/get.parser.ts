@@ -210,6 +210,7 @@ export function artistGetParser(body: GetArtist) {
     albumCount,
     listeners,
     appearsOnCount,
+    topCities: topCitiesArray,
     appearsOn: appearsOnArray,
     worldRank,
     compilations: compilationsArray,
