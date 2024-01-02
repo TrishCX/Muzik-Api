@@ -9,6 +9,6 @@ export async function fetchCanvas(id: string) {
   if (result.canvases && result.canvases.length > 0 && result.canvases[0].url) {
     return result.canvases[0].url as string;
   } else {
-    return console.error("No Spotify Canvas found for that track");
+    return undefined;
   }
 }

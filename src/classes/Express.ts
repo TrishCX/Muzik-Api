@@ -1,6 +1,12 @@
-import { Response, Express as _Express } from "express";
+import { Express as _Express } from "express";
 import { Session } from "../config/Session/index";
-import { ArtistRouter } from "../routers/index";
+import {
+  AlbumRouter,
+  ArtistRouter,
+  ContentRouter,
+  HomeRouter,
+  TrackRouter,
+} from "../routers/index";
 
 export default class Express {
   private app?: _Express;
@@ -14,7 +20,17 @@ export default class Express {
   }
 
   private async registerRoutes() {
+    this.app?.get("/", async (request, response) => {
+      return response.status(200).send({
+        message: `There is no implementation for the initial home page. Consider looking for other (API) routes.`,
+        status: response.statusCode,
+      });
+    });
     this.app?.use("/api/v1", ArtistRouter);
+    this.app?.use("/api/v1", TrackRouter);
+    this.app?.use("/api/v1", HomeRouter);
+    this.app?.use("/api/v1", ContentRouter);
+    this.app?.use("/api/v1", AlbumRouter);
   }
 
   private listen() {

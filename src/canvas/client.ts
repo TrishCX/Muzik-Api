@@ -90,8 +90,8 @@ class SPClient {
       .then((res: any) => {
         if (
           res === undefined ||
-          !res.canvases ||
-          res.canvases.length === undefined
+          !res?.canvases ||
+          res.canvases?.length === undefined
         ) {
           return { canvases: [] };
         }
