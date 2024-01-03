@@ -1,0 +1,1 @@
+{"version":3,"file":"Request.extender.d.ts","sourceRoot":"","sources":["../../src/extenders/Request.extender.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,aAAa,EAAE,UAAU,EAAE,MAAM,kBAAkB,CAAC;AAGlE,qBAAa,eAAe;IACb,aAAa,IAAI,OAAO,CAAC,aAAa,CAAC;IAMvC,KAAK,CAAC,KAAK,EAAE,UAAU;CAQrC"}

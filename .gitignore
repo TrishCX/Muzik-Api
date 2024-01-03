@@ -3,5 +3,5 @@ node_modules/
 package-lock.json
 
 # Ignore distribution files
-dist/
+src/
 .json
