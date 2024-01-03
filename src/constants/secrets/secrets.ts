@@ -28,6 +28,11 @@ function GENRES_GET(browseId: string) {
   return URL;
 }
 
+function PLAYLIST_GET(browseId?: string) {
+  const URL: string = `https://music.youtube.com/youtubei/v1/browse?key=AIzaSyC9XL3ZjWddXya6X74dJoCTL-WEYFDNX30&prettyPrint=false`;
+  return URL;
+}
+
 function SECTIONS_GET(sectionId: string, offSet?: number) {
   const URL: string = `https://api-partner.spotify.com/pathfinder/v1/query?operationName=browseSection&variables=%7B%22pagination%22%3A%7B%22offset%22%3A${
     offSet || 0
@@ -57,6 +62,7 @@ export const END_POINTS = {
     // "0JQ5DAudkNjCgYMM0TZXDw",
     "0JQ5DAqbMKFEC4WFtoNRpw",
   ],
+  PLAYLIST_GET,
   LYRICS_API: "https://spotify-lyric-api-984e7b4face0.herokuapp.com/?trackid",
   YOUTUBE_SEARCH_SUGGESTIONS:
     "https://music.youtube.com/youtubei/v1/music/get_search_suggestions?key=AIzaSyC9XL3ZjWddXya6X74dJoCTL-WEYFDNX30&prettyPrint=false",

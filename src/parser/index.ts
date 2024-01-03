@@ -6,3 +6,4 @@ export * from "./tracks/parseTrackSuggestion";
 export * from "./album/album.get";
 export * from "./tracks/creditParser";
 export * from "./youtube/youtube.videos";
+export * from "./youtube/youtube.list";

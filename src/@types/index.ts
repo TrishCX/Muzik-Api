@@ -12,3 +12,4 @@ export type { GetAlbum } from "./Album/GetAlbum";
 export { CopyRight } from "./Album/GetAlbum";
 export type { Credits, Artist as CreditArtist } from "./Credits/Credits";
 export type { Videos, MusicShelfRendererContent } from "./Youtube/VideosSearch";
+export type { Playlist } from "./Youtube/Playlist";

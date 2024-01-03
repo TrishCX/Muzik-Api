@@ -5,6 +5,7 @@ import {
   ArtistRouter,
   ContentRouter,
   HomeRouter,
+  PlaylistRouter,
   TrackRouter,
 } from "../routers/index";
 
@@ -31,6 +32,7 @@ export default class Express {
     this.app?.use("/api/v1", HomeRouter);
     this.app?.use("/api/v1", ContentRouter);
     this.app?.use("/api/v1", AlbumRouter);
+    this.app?.use("/api/v1", PlaylistRouter);
   }
 
   private listen() {

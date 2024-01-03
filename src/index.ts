@@ -1,8 +1,6 @@
-// import { searchVideos } from "./api/index";
+// import { getVideoPlaylist } from "./api/index";
 
-// (async () => {
-//   searchVideos("Me and my broken heart");
-// })();
+// (async () => {})();
 
 import Express from "./classes/Express";
 import app from "./app/app";
