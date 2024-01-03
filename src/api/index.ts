@@ -8,3 +8,4 @@ export * from "./home.youtube";
 export * from "./getSongSuggestion";
 export * from "./getAlbum";
 export * from "./getCredits";
+export * from "./searchVideos";

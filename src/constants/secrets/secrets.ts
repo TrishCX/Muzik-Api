@@ -14,6 +14,11 @@ function TRACK_SEARCH(query: string, offset: number | 0) {
   const URL: string = `https://api-partner.spotify.com/pathfinder/v1/query?operationName=searchTracks&variables=%7B%22searchTerm%22%3A%22${query}%22%2C%22offset%22%3A${offset}%2C%22limit%22%3A100%2C%22numberOfTopResults%22%3A20%2C%22includeAudiobooks%22%3Afalse%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%229a7c5b5016c7512f42285602edf542fa9c6a657a4fe657fe9c397a980617b2b3%22%7D%7D`;
   return URL;
 }
+
+function VIDEO_SEARCH(query: string) {
+  const URL: string = `https://music.youtube.com/youtubei/v1/search?alt=json&key=AIzaSyC9XL3ZjWddXya6X74dJoCTL-WEYFDNX30`;
+  return URL;
+}
 function TRACK_SUGGESTION(browseId: string) {
   const URL: string = `https://api-partner.spotify.com/pathfinder/v1/query?operationName=internalLinkRecommenderTrack&variables=%7B%22uri%22%3A%22spotify%3Atrack%3A${browseId}%22%2C%22strategy%22%3A%22CONTENT_ONLY%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%2297f52864d50ba62ab761a7bff47f1a9921d9e357316f7d60ad84ae3788eea4cf%22%7D%7D`;
   return URL;
@@ -44,6 +49,7 @@ export const END_POINTS = {
   ALBUM_GET,
   SECTIONS_GET,
   CREDITS,
+  VIDEO_SEARCH,
   HOME_CONTENT: [
     // "0JQ5DAqbMKFz6FAsUtgAab",
     // "0JQ5DAqbMKFFzDl7qN9Apr",

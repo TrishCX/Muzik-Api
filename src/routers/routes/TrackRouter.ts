@@ -1,7 +1,7 @@
 import { Router } from "express";
 import { canvas, getCredits, getSongSuggestion } from "../../api/index";
 // @api
-import { searchTracks } from "../../api/index";
+import { searchTracks, searchVideos } from "../../api/index";
 
 const TrackRouter = Router({
   strict: true,
@@ -38,6 +38,16 @@ TrackRouter.get("/search/tracks", async (request, response) => {
   const parseSearchResults = await searchTracks(query, offset);
   return response.status(200).send({
     tracks: parseSearchResults,
+  });
+});
+
+TrackRouter.get("/search/tracks/videos", async (request, response) => {
+  const platform = request.query?.platform as string;
+  const query = request.query?.query as string;
+  const data = await searchVideos(query);
+
+  return response.status(200).send({
+    data: data,
   });
 });
 

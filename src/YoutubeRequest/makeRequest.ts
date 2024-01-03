@@ -1,9 +1,13 @@
 import { makeContext } from "../context";
 
-export async function makeRequest(url: string, body?: any) {
+export async function makeRequest(
+  url: string,
+  body?: any,
+  version?: string | "0.1"
+) {
   const context = makeContext({
     clientName: "WEB_REMIX",
-    clientVersion: "0.1",
+    clientVersion: version?.toString() as string,
   });
 
   const req = await fetch(url, {
