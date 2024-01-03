@@ -1,1 +1,0 @@
-{"version":3,"file":"getSyncLyrics.d.ts","sourceRoot":"","sources":["../../src/api/getSyncLyrics.ts"],"names":[],"mappings":"AAEA,MAAM,WAAW,MAAM;IACrB,IAAI,CAAC,EAAE,MAAM,CAAC;IACd,WAAW,CAAC,EAAE,MAAM,GAAG,MAAM,CAAC;IAC9B,SAAS,CAAC,EAAE,MAAM,GAAG,MAAM,CAAC;CAC7B;AACD,wBAAsB,aAAa,CAAC,OAAO,EAAE,MAAM,iCAgBlD"}
