@@ -1,6 +1,6 @@
+import { AlbumOfTrack } from "../../@types/Artists/GetArtist";
 import type { GetArtist } from "../../@types/index";
 import { formatDuration } from "../../helpers/index";
-import cheerio from "cheerio";
 
 export interface Tracks {
   title?: string;
@@ -14,6 +14,7 @@ export interface Tracks {
   durationInMS?: number;
   id?: string;
   playCount?: string;
+  albumOfTrack?: AlbumOfTrack;
 }
 export interface Albums {
   id: string;
@@ -192,6 +193,7 @@ export function artistGetParser(body: GetArtist) {
       durationInMS: track.duration.totalMilliseconds,
       id: track.id,
       playCount: track.playcount,
+      albumOfTrack: track.albumOfTrack,
     });
   }
 
