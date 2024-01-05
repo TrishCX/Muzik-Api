@@ -1,5 +1,10 @@
 import { Router } from "express";
-import { canvas, getCredits, getSongSuggestion } from "../../api/index";
+import {
+  canvas,
+  getCredits,
+  getSongSuggestion,
+  quickVideo,
+} from "../../api/index";
 // @api
 import { searchTracks, searchVideos } from "../../api/index";
 
@@ -50,5 +55,13 @@ TrackRouter.get("/search/tracks/videos", async (request, response) => {
     data: data,
   });
 });
+TrackRouter.get("/quick/search/tracks/videos", async (request, response) => {
+  const platform = request.query?.platform as string;
+  const query = request.query?.query as string;
+  const data = await quickVideo(query);
 
+  return response.status(200).send({
+    data: data,
+  });
+});
 export default TrackRouter;

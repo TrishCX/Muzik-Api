@@ -1,10 +1,15 @@
-// import { getVideoPlaylist } from "./api/index";
+import { quickVideo } from "./api";
 
-// (async () => {})();
+(async () => {
+  const query: string = `Daft Punk Music Videos`;
 
-import Express from "./classes/Express";
-import app from "./app/app";
+  const response = await quickVideo(query);
+  console.log(response);
+})();
 
-const server = new Express(app);
+// import Express from "./classes/Express";
+// import app from "./app/app";
 
-server.register();
+// const server = new Express(app);
+
+// server.register();

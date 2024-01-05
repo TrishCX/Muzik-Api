@@ -27,6 +27,7 @@ export function parseVideo(body: Videos) {
     const artists = listArtists(
       artistsColumns.musicResponsiveListItemFlexColumnRenderer.text.runs
     );
+
     searchTracks.push({ title, thumbnailURL, artists, videoId });
   }
   return searchTracks;
