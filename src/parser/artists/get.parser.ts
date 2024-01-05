@@ -68,6 +68,7 @@ export function artistGetParser(body: GetArtist) {
 
   // Profile
   const data = body.data.artistUnion;
+  const externalLinks: { name: string; url?: string }[] = [];
 
   const profile = data.profile;
   const visuals = data.visuals;
@@ -98,8 +99,21 @@ export function artistGetParser(body: GetArtist) {
 
   const compilations = data.discography?.compilations?.items;
   const compilationsCount = data.discography?.compilations?.totalCount;
-
+  const links = data.profile.externalLinks?.items;
   const topCities = data.stats.topCities?.items;
+
+  for (const link of links) {
+    var _link: any = link as any;
+    var _connectionName: string =
+      link?.name?.charAt(0)?.toUpperCase() +
+      link?.name?.slice(1)?.toLowerCase();
+    var _connectionURL: string = _link?.url as string;
+
+    externalLinks.push({
+      name: _connectionName,
+      url: _connectionURL,
+    });
+  }
 
   for (const { releases } of appearsOn) {
     for (const item of releases?.items) {
@@ -220,5 +234,6 @@ export function artistGetParser(body: GetArtist) {
     latest: latest,
     relatedArtists: relatedArtistsArray,
     relatedArtistsCount,
+    externalLinks,
   };
 }
